@@ -1,0 +1,19 @@
+data
+Space for storing element
+fornt - for deleting
+rear  - for inserting
+
+operations
+1.enqueue(x)- adding
+dequeue(x) - deleting form front
+isEmpty()
+isFull()
+first()
+last()
+ 
+
+ impliment can be using 
+ 1. array 
+ 2. linklist
+
+ 
